@@ -1,0 +1,23 @@
+# Compilados de Java (No los queremos, queremos el código .java)
+*.class
+*.log
+*.ctxt
+
+# Carpetas de salida de compilación
+bin/
+out/
+target/
+build/
+
+# Configuración de IntelliJ IDEA (Esa carpeta .idea que tenías)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de Visual Studio Code (por si lo usas)
+.vscode/
